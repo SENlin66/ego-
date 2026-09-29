@@ -1,0 +1,7 @@
+# Install a CUDA-enabled torch + torchvision build separately.
+transformers==5.15.0
+accelerate==1.14.0
+safetensors==0.8.0
+pillow==12.2.0
+opencv-python==5.0.0.93
+numpy==2.2.6

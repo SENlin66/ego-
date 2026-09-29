@@ -1,0 +1,11 @@
+# Install a CUDA-enabled torch + torchvision build separately.
+numpy==2.2.6
+opencv-python==5.0.0.93
+av==17.0.0
+mcap==1.4.0
+mcap-ros2-support==0.5.7
+timm
+omegaconf
+einops
+opt_einsum
+antlr4-python3-runtime
